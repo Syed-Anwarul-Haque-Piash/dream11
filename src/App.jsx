@@ -1,11 +1,12 @@
+import Navbar from "./components/Navbar/Navbar"
 
 
 function App() {
   
 
   return (
-    <div>
-      <h1 className="text-4xl font-bold text-amber-300">This is app</h1>
+    <div className="max-w-7xl mx-auto mt-3">
+      <Navbar></Navbar>
     </div>
   )
 }
