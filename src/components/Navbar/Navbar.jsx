@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../../assets/images/logo.png'
-const Navbar = () => {
+const Navbar = ({credits}) => {
     return (
         <div className='flex justify-between items-center'>
             <div>
@@ -11,7 +11,7 @@ const Navbar = () => {
                 <a className='ml-4 text-gray-500' href="">Fixture</a>
                 <a className='ml-4 text-gray-500' href="">Team</a>
                 <a className='ml-4 text-gray-500' href="">Schedule</a>
-                <button className='border-2 border-gray-500 ml-4 w-[125px] h-[52px]'>Coin</button>
+                <button className='border-2 border-gray-500 ml-4 w-[125px] h-[52px]'>{credits} Coin</button>
             </div>
         </div>
     );
