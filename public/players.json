@@ -3,160 +3,150 @@
     "id": 1,
     "name": "Virat Kohli",
     "country": "India",
-    "image": "https://example.com/images/virat_kohli.jpg",
+    "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
     "role": "Batsman",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm medium",
-    "biddingPrice": "2.0 Cr"
+    "biddingPrice": "200000"
   },
   {
     "id": 2,
     "name": "Ben Stokes",
     "country": "England",
-    "image": "https://example.com/images/ben_stokes.jpg",
+    "image": "https://www.ipl.com/upload/20241016/84522a0c15e2730e8137ef6162579936.png",
     "role": "All-Rounder",
     "battingType": "Left-hand bat",
     "bowlingType": "Right-arm fast-medium",
-    "biddingPrice": "1.8 Cr"
+    "biddingPrice": "180000"
   },
   {
     "id": 3,
     "name": "Mitchell Starc",
     "country": "Australia",
-    "image": "https://example.com/images/mitchell_starc.jpg",
+    "image": "https://c.ndtvimg.com/2023-10/shb2mgho_mitchell-starc-afp_625x300_09_October_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
     "role": "Bowler",
     "battingType": "Left-hand bat",
     "bowlingType": "Left-arm fast",
-    "biddingPrice": "2.2 Cr"
+    "biddingPrice": "220000"
   },
   {
     "id": 4,
     "name": "Babar Azam",
     "country": "Pakistan",
-    "image": "https://example.com/images/babar_azam.jpg",
+    "image": "https://st3.cricketcountry.com/wp-content/uploads/2024/02/Babar-Azam-1.jpg",
     "role": "Batsman",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm offbreak",
-    "biddingPrice": "1.5 Cr"
+    "biddingPrice": "150000"
   },
   {
     "id": 5,
     "name": "Rashid Khan",
     "country": "Afghanistan",
-    "image": "https://example.com/images/rashid_khan.jpg",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2021/03/2019-06-29T000000Z_1566118890_RC1BA4F74350_RTRMADP_3_CRICKET-WORLDCUP-PAK-AFG.jpg?resize=1800%2C1684",
     "role": "Bowler",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm legbreak googly",
-    "biddingPrice": "2.4 Cr"
+    "biddingPrice": "240000"
   },
   {
     "id": 6,
     "name": "Quinton de Kock",
     "country": "South Africa",
-    "image": "https://example.com/images/quinton_de_kock.jpg",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/quinton-de-kock-014342686-1x1_1.jpg?VersionId=HjsP3BLThKLXxwfkrFjkWPIek8iCRKlX",
     "role": "Wicket-Keeper",
     "battingType": "Left-hand bat",
     "bowlingType": "N/A",
-    "biddingPrice": "1.9 Cr"
+    "biddingPrice": "190000"
   },
   {
     "id": 7,
     "name": "Kane Williamson",
     "country": "New Zealand",
-    "image": "https://example.com/images/kane_williamson.jpg",
+    "image": "https://www.livemint.com/lm-img/img/2025/02/10/original/Kane_Williamson__1739193929634.jpg",
     "role": "Batsman",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm offbreak",
-    "biddingPrice": "1.6 Cr"
+    "biddingPrice": "160000"
   },
   {
     "id": 8,
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
-    "image": "https://example.com/images/shakib_al_hasan.jpg",
+    "image": "https://i.dawn.com/primary/2022/08/62f8838e5fbb9.jpg",
     "role": "All-Rounder",
     "battingType": "Left-hand bat",
     "bowlingType": "Slow left-arm orthodox",
-    "biddingPrice": "1.7 Cr"
+    "biddingPrice": "170000"
   },
   {
     "id": 9,
     "name": "Jasprit Bumrah",
     "country": "India",
-    "image": "https://example.com/images/jasprit_bumrah.jpg",
+    "image": "https://www.thestatesman.com/wp-content/uploads/2024/06/Untitled-design-2024-06-10T175456.258.jpg",
     "role": "Bowler",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm fast",
-    "biddingPrice": "2.3 Cr"
+    "biddingPrice": "230000"
   },
   {
     "id": 10,
     "name": "Steve Smith",
     "country": "Australia",
-    "image": "https://example.com/images/steve_smith.jpg",
+    "image": "https://crictoday.com/wp-content/uploads/2023/05/skysports-steve-smith-australia_5188434.webp",
     "role": "Batsman",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm legbreak",
-    "biddingPrice": "1.4 Cr"
+    "biddingPrice": "140000"
   },
   {
     "id": 11,
     "name": "Jos Buttler",
     "country": "England",
-    "image": "https://example.com/images/jos_buttler.jpg",
+    "image": "https://e0.365dm.com/20/09/2048x1152/skysports-jos-buttler-england_5089123.jpg?20200906191807",
     "role": "Wicket-Keeper",
     "battingType": "Right-hand bat",
     "bowlingType": "N/A",
-    "biddingPrice": "2.1 Cr"
+    "biddingPrice": "210000"
   },
   {
     "id": 12,
     "name": "Trent Boult",
     "country": "New Zealand",
-    "image": "https://example.com/images/trent_boult.jpg",
+    "image": "https://caughtatpoint.com/wp-content/uploads/2018/02/Trent-Boult-bowling-action.jpg",
     "role": "Bowler",
     "battingType": "Right-hand bat",
     "bowlingType": "Left-arm fast-medium",
-    "biddingPrice": "1.6 Cr"
+    "biddingPrice": "160000"
   },
   {
     "id": 13,
     "name": "David Warner",
     "country": "Australia",
-    "image": "https://example.com/images/david_warner.jpg",
+    "image": "https://e0.365dm.com/21/10/2048x1152/skysports-david-warner-australia_5562949.jpg?20211028175600",
     "role": "Batsman",
     "battingType": "Left-hand bat",
     "bowlingType": "Right-arm legbreak",
-    "biddingPrice": "1.9 Cr"
+    "biddingPrice": "100000"
   },
   {
     "id": 14,
     "name": "Shaheen Afridi",
     "country": "Pakistan",
-    "image": "https://example.com/images/shaheen_afridi.jpg",
+    "image": "https://groundzero.pk/wp-content/uploads/2024/12/Shaheen-Afridi-2.jpg",
     "role": "Bowler",
     "battingType": "Left-hand bat",
     "bowlingType": "Left-arm fast",
-    "biddingPrice": "2.0 Cr"
+    "biddingPrice": "200000"
   },
   {
     "id": 15,
     "name": "Rohit Sharma",
     "country": "India",
-    "image": "https://example.com/images/rohit_sharma.jpg",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/401300/401359.jpg",
     "role": "Batsman",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm offbreak",
-    "biddingPrice": "2.1 Cr"
-  },
-  {
-    "id": 16,
-    "name": "Andre Russell",
-    "country": "West Indies",
-    "image": "https://example.com/images/andre_russell.jpg",
-    "role": "All-Rounder",
-    "battingType": "Right-hand bat",
-    "bowlingType": "Right-arm fast",
-    "biddingPrice": "2.5 Cr"
+    "biddingPrice": "210000"
   }
 ]

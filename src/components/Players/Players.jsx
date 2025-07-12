@@ -12,7 +12,7 @@ const Players = () => {
         })
     })
     return ( 
-        <div className=' grid grid-cols-3 gap-4'>
+        <div className=' grid grid-cols-3 gap-4 mt-10 '>
             {players.map(player=><Player player={player}></Player>)}
         </div>
     );
