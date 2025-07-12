@@ -17,7 +17,7 @@
     "role": "All-Rounder",
     "battingType": "Left-hand bat",
     "bowlingType": "Right-arm fast-medium",
-    "biddingPrice": "18000000"
+    "biddingPrice": "1.8 Cr"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "role": "Bowler",
     "battingType": "Left-hand bat",
     "bowlingType": "Left-arm fast",
-    "biddingPrice": "22000000 "
+    "biddingPrice": "2.2 Cr"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "role": "Batsman",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm offbreak",
-    "biddingPrice": "15000000"
+    "biddingPrice": "1.5 Cr"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "role": "Bowler",
     "battingType": "Right-hand bat",
     "bowlingType": "Right-arm legbreak googly",
-    "biddingPrice": "24000000"
+    "biddingPrice": "2.4 Cr"
   },
   {
     "id": 6,
@@ -57,6 +57,106 @@
     "role": "Wicket-Keeper",
     "battingType": "Left-hand bat",
     "bowlingType": "N/A",
-    "biddingPrice": "19000000"
+    "biddingPrice": "1.9 Cr"
+  },
+  {
+    "id": 7,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://example.com/images/kane_williamson.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "1.6 Cr"
+  },
+  {
+    "id": 8,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://example.com/images/shakib_al_hasan.jpg",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": "1.7 Cr"
+  },
+  {
+    "id": 9,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://example.com/images/jasprit_bumrah.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "2.3 Cr"
+  },
+  {
+    "id": 10,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://example.com/images/steve_smith.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": "1.4 Cr"
+  },
+  {
+    "id": 11,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://example.com/images/jos_buttler.jpg",
+    "role": "Wicket-Keeper",
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "biddingPrice": "2.1 Cr"
+  },
+  {
+    "id": 12,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://example.com/images/trent_boult.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": "1.6 Cr"
+  },
+  {
+    "id": 13,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://example.com/images/david_warner.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": "1.9 Cr"
+  },
+  {
+    "id": 14,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "image": "https://example.com/images/shaheen_afridi.jpg",
+    "role": "Bowler",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast",
+    "biddingPrice": "2.0 Cr"
+  },
+  {
+    "id": 15,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "image": "https://example.com/images/rohit_sharma.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "2.1 Cr"
+  },
+  {
+    "id": 16,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://example.com/images/andre_russell.jpg",
+    "role": "All-Rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "2.5 Cr"
   }
 ]

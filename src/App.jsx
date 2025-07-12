@@ -2,6 +2,7 @@ import { useState } from "react"
 import Banner from "./components/Banner/Banner"
 import Navbar from "./components/Navbar/Navbar"
 import Swal from 'sweetalert2'
+import Players from "./components/Players/Players";
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
     <div className="max-w-7xl mx-auto mt-3">
       <Navbar credits={credits}></Navbar>
       <Banner claimCredit={claimCredit}></Banner>
+      <Players></Players>
     </div>
   )
 }
