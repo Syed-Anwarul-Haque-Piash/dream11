@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar"
 import Swal from 'sweetalert2'
 import Players from "./components/Players/Players";
 import Newsletter from "./components/Newsletter/Newsletter";
+import Footer from "./components/Footer/Footer";
 
 
 function App() {
@@ -41,6 +42,7 @@ function App() {
       <Banner claimCredit={claimCredit}></Banner>
       <Players handleChoosePlayer={handleChoosePlayer}></Players>
       <Newsletter></Newsletter>
+      <Footer></Footer>
     </div>
   )
 }
