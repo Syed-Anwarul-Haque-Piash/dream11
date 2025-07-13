@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Player = ({player}) => {
+const Player = ({player,handleChoosePlayer}) => {
     const {name,biddingPrice,image,country,role,battingType,bowlingType}=player;
     return (
-        <div className='w-[376px] h-[540px]'>
+        <div className='w-[376px] h-[440px]'>
             <img className=' w-[376px] h-[240px] rounded-lg' src={image} alt="" />
             <h1 className='text-2xl font-bold mt-2'>{name}</h1>
             <div className='flex justify-between mt-2'>
@@ -20,7 +20,7 @@ const Player = ({player}) => {
             </div>
             <div className='flex justify-between items-center'>
                 <h1>Price:${biddingPrice}</h1>
-                <button className='border-2 border-gray-600 m-2 p-2'>Choose Player</button>
+                <button onClick={()=>handleChoosePlayer(biddingPrice)} className='border-2 border-gray-600 m-2 p-2'>Choose Player</button>
             </div>
         </div>
     );
