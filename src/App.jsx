@@ -3,6 +3,7 @@ import Banner from "./components/Banner/Banner"
 import Navbar from "./components/Navbar/Navbar"
 import Swal from 'sweetalert2'
 import Players from "./components/Players/Players";
+import Newsletter from "./components/Newsletter/Newsletter";
 
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
       <Navbar credits={credits}></Navbar>
       <Banner claimCredit={claimCredit}></Banner>
       <Players handleChoosePlayer={handleChoosePlayer}></Players>
+      <Newsletter></Newsletter>
     </div>
   )
 }
