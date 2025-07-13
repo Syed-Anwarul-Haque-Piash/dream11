@@ -15,22 +15,23 @@ function App() {
       text: 'You are adding coin',
       confirmButtonText: 'ok'
     })
+    
   }
   const handleChoosePlayer = (price) => {
     console.log("I am adding this", price)
     setCredits(credits - price)
-    if (credits < 0) {
+    if (credits <= 0) {
       Swal.fire({
-
         text: 'You have not enough coin',
         confirmButtonText: 'ok'
       })
     }
-    Swal.fire({
-
+    else{
+      Swal.fire({
       text: 'You are adding player',
       confirmButtonText: 'ok'
     })
+    }
   }
 
   return (
